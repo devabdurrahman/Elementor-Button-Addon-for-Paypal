@@ -1,1 +1,1 @@
-# Elementor-Button-Addon-for-Paypal
+Paypal Button Addon for Elementor.
